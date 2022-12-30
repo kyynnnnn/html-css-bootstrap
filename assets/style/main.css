@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,500;0,600;0,700;1,400&display=swap');
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav .custom-active{
+  color: #10A19D;
+}
+
+.nav .custom-link{
+  color: #b0b0b0;
+}
+
+.custom-btn-outline{
+  border-color: #10A19D;
+  border-width: 2px;
+  color: #10A19D;
+}
+
+.custom-btn-outline:hover{
+  background-color: #10A19D;
+  color: #ffffff;
+  border-color: #10A19D;
+}
+
+.custom-btn-outline:active{
+  background-color: #152C5B !important;
+  border-color: #152C5B !important;
+}
+
+.custom-btn{
+  background-color: #10A19D;
+  color: #ffffff;
+  border: none;
+  width: 90px;
+  height: 40px;
+}
+
+.custom-btn:hover{
+  background-color: #152C5B;
+}
+
+.custom-btn:active{
+  background-color: #10A19D !important;
+}
+
+.custom-btn-started{
+  background-color: #10A19D;
+  color: #ffffff;
+  border: none;
+  width: 150px;
+  height: 40px;
+}
